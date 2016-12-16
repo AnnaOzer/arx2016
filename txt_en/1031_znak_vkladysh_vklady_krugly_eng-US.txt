@@ -1,5 +1,5 @@
 Arcadia Laboratory creates and produces hi-end cosmetics for professional and home use. Arcadia beauty products contain highly concentrated active components in a perfect combination. The founders of Arcadia possess over 30 years of scientific experience and practice in cosmetology and allied sciences such as chemistry, biology, and medicine. Years of effective work have allowed us to bring our knowledge together and build a scientific laboratory to design and produce premium cosmetics for home care and professional treatment.
-Arcadia products have successfully (УСПЕШНО) passed clinical tests and are recommended by the Department of Cosmetology at the North-Western State Medical University in Saint-Petersburg. Our cosmetics are widely used in medical centers and clinics, beauty shops, and plastic surgery centers.
+Arcadia products have successfully passed clinical tests and are recommended by the Department of Cosmetology at the North-Western State Medical University in Saint-Petersburg. Our cosmetics are widely used in medical centers and clinics, beauty shops, and plastic surgery centers.
 
 Russia, 197046, St. Petersburg
 Kronverksky prospect 13/2
@@ -12,12 +12,9 @@ About Arcadia Home Treatment:
 •	All cosmetics are good for sensitive skin.
 Our cosmetics come in the following series:
 •	Prime – cleansing and toning, for all skin types
-•	Courage – intensive treatment
-•	for normal and combination skin
-•	Lady N –  immunomodulating complex
-•	for dry to normal skin
-•	Prestige – stimulating complex
-•	for dry and demanding skin
+•	Courage – intensive treatment for normal and combination skin
+•	Lady N –  immunomodulating complex for dry to normal skin
+•	Prestige – stimulating complex for dry and demanding skin
 •	Active serums
 •	UpGrade – age control series
 •	Hand creams and scrubs
